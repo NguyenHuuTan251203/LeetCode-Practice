@@ -2,7 +2,7 @@
 This repository is a collection of my solutions to various LeetCode problems.  
 It serves as a record of my problem-solving journey and a reference for data structures, algorithms
 
-## ✅ Topics Covered
+## 🏫 Topics Covered
 - Arrays
 - Strings
 - Dynamic Programming
@@ -10,5 +10,6 @@ It serves as a record of my problem-solving journey and a reference for data str
 - Sliding Window
 - And more...
 
-## 🛠 Languages Used
+## 🧑‍💻
+ Languages Used
 - C#
